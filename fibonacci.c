@@ -8,7 +8,7 @@ int main()
 	printf("Fibonacci sequence:");
 	for(i = 1; i <= n; ++i)
 	{
-		printf("%d",t1);
+		printf("%d ",t1);
 	    next = t1+t2;
     	t1 = t2;
     	t2 = next;
